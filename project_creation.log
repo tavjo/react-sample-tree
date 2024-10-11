@@ -1,0 +1,18 @@
+2024-10-10 14:22:32 - Starting project structure creation in directory: /Users/taishajoseph/Documents/Projects/nhp-tree
+2024-10-10 14:22:32 - Directory created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/components/Tree
+2024-10-10 14:22:32 - Directory created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/components/Node
+2024-10-10 14:22:32 - Directory created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/data
+2024-10-10 14:22:32 - Directory created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/hooks
+2024-10-10 14:22:32 - Directory created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/styles
+2024-10-10 14:22:32 - Directory created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/utils
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/components/Tree/Tree.js
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/components/Tree/Tree.css
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/components/Node/Node.js
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/components/Node/Node.css
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/data/mockData.js
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/hooks/useTreeData.js
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/styles/globalStyles.js
+2024-10-10 14:22:32 - File created: /Users/taishajoseph/Documents/Projects/nhp-tree/src/utils/dataTransform.js
+2024-10-10 14:22:32 - File already exists: /Users/taishajoseph/Documents/Projects/nhp-tree/src/App.js
+2024-10-10 14:22:32 - File already exists: /Users/taishajoseph/Documents/Projects/nhp-tree/src/index.js
+2024-10-10 14:22:32 - Project structure creation completed successfully.
