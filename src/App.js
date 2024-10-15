@@ -1,12 +1,14 @@
 import React from 'react';
+import GlobalStyles from './styles/globalStyles';
 import TreeComponent from './components/Tree/Tree';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <GlobalStyles />
       <TreeComponent />
-    </div>
+    </>
   );
 }
 
